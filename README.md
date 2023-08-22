@@ -8,7 +8,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://media.discordapp.net/attachments/1045717032349474886/1143595850677883010/b9f7f4db58a1d0fab31771b16239c279.gif?width=1104&height=621">
+  <img src="https://media.discordapp.net/attachments/1045717032349474886/1143629538509729792/42836adf0826dbfa27034fc55566d3a2.gif">
   <br><br>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Assassinols" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Assassinols" alt="Profile Forks"></a>
